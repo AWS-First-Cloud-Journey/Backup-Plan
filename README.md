@@ -1,7 +1,7 @@
 # TESTING BACKUP AND RESTORE OF DATA
 
-Deploy the Infrastructure
-Create Backup Plan
-Enable Notifications
-Test Restore
-Teardown
+1. Deploy the Infrastructure
+2. Create Backup Plan
+3. Enable Notifications
+4. Test Restore
+5. Teardown
